@@ -19,11 +19,11 @@ Projeto desenvolvido na Matéria de Programação para Dispositivos Móveis do c
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ocaioffernan/ionic-Proj.git
 
 2. Acesse o diretório do projeto:
 
-cd nome-do-projeto
+cd ionic-Proj
 
 3. Instale as dependências:
 
