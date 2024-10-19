@@ -9,6 +9,9 @@ Projeto desenvolvido na Matéria de Programação para Dispositivos Móveis do c
 
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=Angular)
 
+![Static Badge](https://img.shields.io/badge/Typescript-black?logo=typescript)
+
+
 # Funcionalidades
 - F 1. Tirar Foto (Não armazena)
 - F 2. Ligar/Desligar Flash
